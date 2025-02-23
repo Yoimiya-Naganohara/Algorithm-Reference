@@ -63,7 +63,7 @@
     },{
         "id":14
         ,"hash":null,
-        "name":"KMP",
+        "name":"Knuth-Morris-Pratt (KMP)",
         "parentId":4,"url":"KMP.md"
     },
     {
