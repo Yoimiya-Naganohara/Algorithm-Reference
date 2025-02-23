@@ -50,14 +50,14 @@
     {
         "id": 12,
         "hash": null,
-        "name": "Depth First Search",
+        "name": "Depth First Search (DFS)",
         "parentId": 3,
         "url": "Depth First Search.md"
     },
     {
         "id": 13,
         "hash": null,
-        "name": "Breadth First Search",
+        "name": "Breadth First Search (BFS)",
         "parentId": 3,
         "url": "Breadth First Search.md"
     },{
@@ -83,7 +83,7 @@
     {
         "id": 17,
         "hash": null,
-        "name": "Binary Search Tree",
+        "name": "Binary Search Tree (BST)",
         "parentId": 2,
         "url": "BinarySearchTree.md"
     },
@@ -97,14 +97,14 @@
     {
         "id": 19,
         "hash": null,
-        "name": "Greatest Common Divisor",
+        "name": "Greatest Common Divisor (GCD)",
         "parentId": 5,
         "url": "Greatest Common Divisor.md"
     },
     {
         "id": 20,
         "hash": null,
-        "name": "Least Common Multiple",
+        "name": "Least Common Multiple (LCM)",
         "parentId": 5,
         "url": "Least Common Multiple.md"
     },
